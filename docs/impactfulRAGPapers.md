@@ -1,7 +1,7 @@
 # :star2: Most Impactful RAG Papers 
 ### (Jan 2024 to Present)
 
-The concept of Retrieval-Augmented Generation (RAG) was introduced in 2021 through a [seminal paper](https://arxiv.org/abs/2005.11401). Since then, there has been significant growth in RAG research, particularly in the past year. The below table provides summaries of reecent top papers published, covering various topics related to RAG research.
+The concept of Retrieval-Augmented Generation (RAG) was introduced in 2020 through a [seminal paper](https://arxiv.org/abs/2005.11401). Since then, there has been significant growth in RAG research, particularly in the past year. The below table provides summaries of reecent top papers published, covering various topics related to RAG research.
 
 
 
